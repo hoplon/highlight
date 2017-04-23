@@ -1,14 +1,14 @@
-#Hoplon Highlight
+# Hoplon Highlight
 A wrapper to use highlight-js on Hoplon projects
 
-#Latest version
+# Latest version
 [](dependency)
 ```clojure
 [hoplon/highlight "8.4.0-0"] ;; latest release
 ```
 [](/dependency)
 
-#Usage
+# Usage
 ```clojure
 (ns application.core
   (:require [hoplon.highlight :as hl]))
